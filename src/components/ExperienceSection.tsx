@@ -12,7 +12,7 @@ const ExperienceSection: React.FC = () => {
     {
       title: 'Web Developer Intern',
       company: 'BrainlyHood Technologies',
-      period: '02/2025 to Present',
+      period: '12/2024 to Present',
       responsibilities: [
         'Developing responsive web interfaces using HTML, CSS, JavaScript, and React.js.',
         'Utilizing Java for backend logic and integration with frontend components.',
