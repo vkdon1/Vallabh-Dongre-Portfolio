@@ -28,7 +28,7 @@ const FrontendProjectsSection: React.FC = () => {
         'Contact form with validation',
         'Project showcase with filtering',
       ],
-      github: 'https://github.com/vkdon1/portfolio-website',
+      github: 'https://github.com/vkdon1/Business-Website-Tours-Travels-',
       demo: 'https://fantastic-griffin-358434.netlify.app/',
     },
     {
@@ -45,7 +45,7 @@ const FrontendProjectsSection: React.FC = () => {
         'Mobile-first design',
         'Animated content sections',
       ],
-      github: 'https://github.com/vkdon1/ecommerce-landing',
+      github: 'https://github.com/vkdon1/E-com-website',
       demo: 'https://unique-llama-73d428.netlify.app/',
     },
   ];
