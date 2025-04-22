@@ -10,6 +10,28 @@ interface Experience {
 const ExperienceSection: React.FC = () => {
   const experiences: Experience[] = [
     {
+      title: 'Web Developer Intern',
+      company: 'BrainlyHood Technologies',
+      period: '02/2025 to Present',
+      responsibilities: [
+        'Developing responsive web interfaces using HTML, CSS, JavaScript, and React.js.',
+        'Utilizing Java for backend logic and integration with frontend components.',
+        'Collaborating with design and development teams to enhance UI/UX and functionality.',
+        'Implementing interactive features, performing code reviews, and ensuring cross-browser compatibility.'
+      ],
+    }
+    ,{
+      title: 'Full Stack Developer Intern',
+      company: 'Innomatics Research Labs',
+      period: '01/2025 to 04/2025',
+      responsibilities: [
+        'Exhibited strong commitment and recognized for punctuality in the Full Stack Developer internship.',
+        'Collaborated with the development team to build and enhance web applications.',
+        'Designed and implemented RESTful APIs, enabling effective communication between front-end and back-end systems.',
+        ' Gained practical experience in frontend and backend development using modern frameworks',
+      ],
+    },
+    {
       title: 'Full Stack Developer Intern',
       company: 'Exposys Data Labs',
       period: '08/2024 to 09/2024',
